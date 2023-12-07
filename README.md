@@ -8,4 +8,5 @@ Install requirement.txt and start working
 Download pretrained segmnetation weights from official repo
 
 
-# References: https://docs.ultralytics.com/tasks/segment/
+## References: 
+https://docs.ultralytics.com/tasks/segment/
