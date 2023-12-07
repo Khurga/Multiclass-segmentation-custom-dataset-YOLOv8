@@ -1,0 +1,12 @@
+
+
+
+
+path:  .../custom_data/
+train: .../images/train 
+val:   .../images/val  
+test:  .../images/test 
+
+
+nc: 4
+names: ['person', 'car', 'cyclist', 'pavement']
